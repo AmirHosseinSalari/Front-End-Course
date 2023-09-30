@@ -1,2 +1,13 @@
 git init
 git status
+git add .
+git commit -m "message"
+git push
+
+git clone https://github.com/AmirHosseinSalari/Front-End-Course.git
+
+
+
+excercise:
+1-Define an array of names
+2-Define a function with 2 input of a name and names which tell us the array contains that name or not

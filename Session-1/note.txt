@@ -1,0 +1,6 @@
+install node js from https://nodejs.org/en
+
+node --version
+
+cd Desktop
+cd ..
